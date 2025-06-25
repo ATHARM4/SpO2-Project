@@ -76,8 +76,8 @@ The project includes both hardware and software components:
 
 ## 📷 Sample Output
 
-![Block Diagram](Images/system_block_diagram.png)  
+![Block Diagram](Images/High_Level.png)  
 *A high-level system block diagram*
 
-![OLED Display](Images/oled_waveform_display.jpg)  
+![OLED Display](Images/OLED.GIF)  
 *OLED display showing real-time waveform, BPM, and SpO2*
