@@ -36,9 +36,7 @@ The project includes both hardware and software components:
 ### 🖥️ Software Logic (Arduino)
 - Frequency calculation via peak detection
 - Calculation of SpO2 using:
-  \[
-  \text{%SpO2} = 110 - 25R, \quad \text{where } R = \frac{AC_{red}/DC_{red}}{AC_{IR}/DC_{IR}}
-  \]
+SpO2 = 110 - 25R, where R = AC_red/DC_red * AC_IR/DC_IR
 - Real-time waveform plotting (20ms sampling)
 - Display update every 2s (BPM and %SpO2)
 
